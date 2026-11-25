@@ -13,7 +13,7 @@ En GitHub Pages selecciona Deploy from a branch, main y /(root).
 
 En Servicios y precios puedes editar el nombre y precio de cada servicio y adicional. Al seleccionar varios en una cita, los precios se suman automáticamente.
 En Ganancias puedes registrar gastos reales; estos se descuentan junto con gastos porcentuales, reinversión y Cuidado BB/niñera.
-El mensaje de WhatsApp incluye los datos de la cita y la regla de espera de 5 minutos. Escribe el teléfono con indicativo de país (Colombia +57).
+El mensaje de confirmación está organizado por secciones, con emojis, servicios y adicionales por separado, detalle de pagos y regla de espera de 5 minutos. En Android intenta abrir directamente WhatsApp Business (debe estar instalado). Si el teléfono tiene 10 dígitos colombianos, la aplicación agrega +57 automáticamente; también acepta números que ya tengan indicativo.
 
 Los datos se guardan en el navegador de este dispositivo. Exporta copias de seguridad regularmente desde Configuración. La aplicación funciona sin conexión después de abrirse por primera vez con internet.
 
